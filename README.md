@@ -16,7 +16,6 @@
 
 | SLE | Description | Link |
 |-----|-------------|------|
-| SLE-1 | AI Travel & Hotel Booking Agent | [IAI-SLE1-25UAM042](https://github.com/koustubhchorade-hub/IAI-SLE1-25UAM042) |
 | SLE-2 | Profiling of BFS vs DFS (py-spy) | — |
 | SLE-3 | C4 Architecture of BFS vs DFS Graph Search System | — |
 | **SLE-4** | **ADR + Viva Defense (this repo)** | — |
