@@ -65,17 +65,6 @@ Selected **BFS** as the primary search algorithm for the Graph Search System.
 
 ---
 
-## ✅ Evaluation Rubrics (10 Marks)
-
-| Criterion | Max | Focus |
-|-----------|-----|-------|
-| Correctness | 3.0 | ADR is complete and technically sensible |
-| Justification | 3.0 | Reason based on evidence (data + design) |
-| Ownership | 2.0 | Honest AI note + defend in viva |
-| Communication | 2.0 | Clear ADR writing + clear oral answers |
-
----
-
 ## 🎤 Viva Quick Answers
 
 | Question | Answer |
