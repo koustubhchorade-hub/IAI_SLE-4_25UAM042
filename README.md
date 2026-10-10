@@ -93,4 +93,3 @@ Selected **BFS** as the primary search algorithm for the Graph Search System.
 
 ---
 
-*Submitted as part of SY B.Tech. CSE (AI & ML), SEM-VI, Week 15*
